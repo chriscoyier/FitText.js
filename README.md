@@ -1,3 +1,5 @@
+**Note**: This is a forked version of the [real project](https://github.com/davatron5000/FitText.js). This one version [throttles down](http://paulirish.com/2009/throttled-smartresize-jquery-event-handler/) the number of window resize events to potentially increase page performance. But it makes it less smooth.
+
 # FitText.js, a jQuery plugin for inflating web type
 FitText makes font-sizes flexible. Use this plugin on your fluid or responsive layout to achieve scalable headlines that fill the width of a parent element.
 
