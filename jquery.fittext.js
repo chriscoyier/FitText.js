@@ -9,6 +9,9 @@
 * Date: Thu May 05 14:23:00 2011 -0600
 */
 
+// Thanks for the screencast on pull requests. Could you post one on accepting a pull request? 
+// I've been curious about what happens on the other end when I submmit pull requests.
+
 (function($,sr){
  
   // debouncing function from John Hann
